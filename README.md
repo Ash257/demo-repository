@@ -1,3 +1,3 @@
 # Demo
 
-trying out how git actually works.
+trying out how git actually works!
